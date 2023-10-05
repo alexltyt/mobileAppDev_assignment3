@@ -7,7 +7,7 @@ Architectural Choices for a University Social Networking Application
 Proposed
 
 ## Date: 
-[Date]
+4 Oct 2023
 
 ---
 
@@ -55,6 +55,4 @@ With the rise in digital platforms catering to educational needs, there's an eme
 
 - **Extensibility:** Our choices allow for future extensibility. Whether it's adding new features or integrating with other platforms or tools, the modular nature of our decisions ensures that future developments can be easily integrated.
 
----
 
-**Note:** Post-implementation, it would be beneficial to review this ADR after a month to gauge real-world implications and adjust our decisions, if necessary. Additionally, as the app evolves, subsequent ADRs may be necessary to address specific challenges or changes in scope.

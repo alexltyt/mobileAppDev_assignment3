@@ -11,4 +11,4 @@
 -  4. [select-permissions-system.md](select-permissions-system.md)
 - 5. [choose--data-storage.md](choose-data-storage.md)
 - 6. [ensure-app-accessibility.md](ensure-app-accessibility.md)
- - 7. [strategies-for-maintainability.md](strategies-for-maintainability.md)
+ - 7. [set-strategies-for-maintainability.md](set-strategies-for-maintainability.md)

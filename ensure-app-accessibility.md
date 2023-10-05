@@ -20,4 +20,4 @@ The university's demographic will encompass individuals from varied backgrounds,
 ## Consequences
 
 - **Development Time:** Integrating comprehensive accessibility features might extend the initial development time. However, this is a worthy investment considering the long-term benefits.
-- **Training & Awareness:** The development team
+- **Training & Awareness:** The development team might require some training or resources to familiarize themselves with all the accessibility widgets and best practices in Flutter. Furthermore, continuous awareness and updates on accessibility standards will ensure the app remains compliant with any future revisions in the WCAG or other recognized standards.

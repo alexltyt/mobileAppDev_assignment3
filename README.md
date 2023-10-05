@@ -8,7 +8,7 @@
 - 1. [select-app-platform.md ](select-app-platform.md)
 - 2. [choose-ui-framework.md](choose-ui-framework.md)
 - 3. [determine-backend-language.md](determine-backend-language.md)
-- 4. [implement-permission-system.md] (implement-permission-system.md)
+- 4. [permission-system] (implement-permission-system.md)
 - 5. [choose--data-storage.md](choose-data-storage.md)
 - 6. [ensure-app-accessibility.md](ensure-app-accessibility.md)
  - 7. [strategies-for-maintainability.md](strategies-for-maintainability.md)

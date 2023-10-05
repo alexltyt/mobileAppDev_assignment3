@@ -7,7 +7,7 @@ Architectural Choices for a University Social Networking Application
 Proposed
 
 ## Date: 
-[Date]
+4 Oct 2023
 
 ---
 
